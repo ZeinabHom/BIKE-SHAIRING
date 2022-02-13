@@ -9,7 +9,7 @@ The analysis of tripdurations based on hour and gender shows that the duration o
 
 
 
-!(C:\Users\zeina\Desktop\1.png)
+![C:\Users\zeina\Desktop\1.png]
 
 The consumption pattern of bicycle usage based on hours of weekdays shows that the most consumer use bicycle between 8 to 9 am and 5 to 7pm in weekdays except Wednesdays. At weekend, time usage is from 9 am to 7 pm.
 picture 3
