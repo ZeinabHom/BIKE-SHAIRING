@@ -9,7 +9,7 @@ The analysis of tripdurations based on hour and gender shows that the duration o
 
 ```
 ```
-![C:\Users\zeina\Desktop\1.png]]
+![C:\Users\zeina\Desktop\1.png]
 ```
 ```
 
