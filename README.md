@@ -8,7 +8,7 @@ Before starting our analysis, Pandas library of Python is used to reformat "trip
 The analysis of tripdurations based on hour and gender shows that the duration of the most trips are less than 20 minutes and male use bicycle more than women.
 
 
-!["C:\Users\zeina\Desktop\1.png"]
+![C:\Users\zeina\Desktop\1.png]
 
 The consumption pattern of bicycle usage based on hours of weekdays shows that the most consumer use bicycle between 8 to 9 am and 5 to 7pm in weekdays except Wednesdays. At weekend, time usage is from 9 am to 7 pm.
 picture 3
